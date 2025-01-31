@@ -31,7 +31,7 @@
 </p>
         
 <div style="border: 3px solid #00008B; padding: 5px; display: inline-block;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enghera&show_icons=true&locale=en&layout=compact&bg_color=800000&text_color=ffffff" alt="enghera" />
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enghera&show_icons=true&locale=en&layout=compact" alt="enghera" /></p>
 </div>
 
 <!-- Profile Stats with Dark Blue Border -->
