@@ -29,5 +29,3 @@
     <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer"><img src="https://github.com/EngHera/EngHera/blob/main/1051.800.jpg" alt="autocad" width="80" height="80"/> 
   </a> 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enghera&show_icons=true&locale=en&layout=compact" alt="enghera" /></p>
