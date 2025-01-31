@@ -24,7 +24,7 @@
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-    <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/RStudio_logo.svg" alt="rstudio" width="40" height="40"/> </a> 
+    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/></a> 
     <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://www.solidworks.com/sites/all/themes/solidworks/images/logos/solidworks-logo.svg" alt="solidworks" width="40" height="40"/> </a> 
     <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer"> <img src="https://www.autodesk.com/content/dam/autodesk/www/universal/logos/autocad-logo-300x300.svg" alt="autocad" width="40" height="40"/> </a> 
     <a href="https://www.microsoft.com/en-us/microsoft-365/project" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Microsoft_Project_logo.svg/800px-Microsoft_Project_logo.svg.png" alt="ms project" width="40" height="40"/> </a> 
