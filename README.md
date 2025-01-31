@@ -35,13 +35,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enghera&show_icons=true&locale=en&layout=compact&bg_color=003366&text_color=ffffff" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enghera&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=enghera&show_icons=true&locale=en&bg_color=003366&text_color=ffffff" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=enghera&show_icons=true&locale=en&theme=dark Blue" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=enghera&bg_color=003366&text_color=ffffff" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=enghera&theme=dark" alt="GitHub Streak" />
 </p>
