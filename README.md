@@ -1,5 +1,5 @@
-<h3 align="left"> I'm DINALI KOHOMBANARACHCHI , </h3>
-<h3 align="left"> Mechatronics Engineering Undergraduate, Faculty of Engineering, University of Peraadeniya</h3>
+<h3 align="left"> DINALI KOHOMBANARACHCHI , </h3>
+<h3 align="left"><i>Mechatronics Engineering Undergraduate, Faculty of Engineering, University of Peradeniya</i></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enghera&label=Profile%20views&color=0e75b6&style=flat" alt="enghera" /> </p>
 
 <p align="left">
