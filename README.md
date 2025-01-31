@@ -30,8 +30,16 @@
   </a> 
 </p>
         
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enghera&show_icons=true&locale=en&layout=compact&bg_color=800000&text_color=ffffff" alt="enghera" /></p>
+<div style="border: 3px solid #00008B; padding: 5px; display: inline-block;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enghera&show_icons=true&locale=en&layout=compact&bg_color=800000&text_color=ffffff" alt="enghera" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enghera&show_icons=true&locale=en&bg_color=800000&text_color=ffffff" alt="enghera" /></p>
+<!-- Profile Stats with Dark Blue Border -->
+<div style="border: 3px solid #00008B; padding: 5px; display: inline-block;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=enghera&show_icons=true&locale=en&bg_color=800000&text_color=ffffff" alt="enghera" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enghera&bg_color=800000&text_color=ffffff" alt="enghera" /></p>
+<!-- Streak Stats with Dark Blue Border -->
+<div style="border: 3px solid #00008B; padding: 5px; display: inline-block;">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enghera&bg_color=800000&text_color=ffffff" alt="enghera" />
+</div>
