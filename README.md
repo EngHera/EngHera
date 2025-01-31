@@ -27,7 +27,7 @@
     <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="80" height="80"/></a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enghera&show_icons=true&locale=en&layout=compact&bg_color=0e75b6" alt="enghera" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enghera&show_icons=true&locale=en&layout=compact" alt="enghera" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enghera&show_icons=true&locale=en" alt="enghera" /></p>
 
