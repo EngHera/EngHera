@@ -26,7 +26,7 @@
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="80" height="80"/> </a> 
     <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="80" height="80"/></a> 
     <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/EngHera/EngHera/blob/main/SolidWorks_Logo.svg.png" alt="solidworks" width="160" height="80"/>
-    <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer"><img src="https://github.com/EngHera/EngHera/blob/main/Untitled.jpg" alt="autocad" width="40" height="40"/> 
+    <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noreferrer"><img src="https://github.com/EngHera/EngHera/blob/main/1051.800.jpg" alt="autocad" width="80" height="80"/> 
   </a> 
 </p>
 
