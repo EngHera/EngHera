@@ -1,5 +1,5 @@
-<h3 align="left"> DINALI KOHOMBANARACHCHI , </h3>
-<h3 align="left"><i>Mechatronics Engineering Undergraduate, Faculty of Engineering, University of Peradeniya</i></h3>
+<h3 align="center"> HI 👋 ,  I'm DINALI KOHOMBANARACHCHI , </h3>
+<h3 align="center"><i>Mechatronics Engineering Undergraduate, Faculty of Engineering, University of Peradeniya</i></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enghera&label=Profile%20views&color=0e75b6&style=flat" alt="enghera" /> </p>
 
 <p align="left">
@@ -7,7 +7,7 @@
 
 ---
 
-### 🔧 Technical Skills
+### ⚙️ TECHNICAL SKILLS 
 <p align="left"> 
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="80" height="80"/> </a> 
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="80" height="80"/> </a> 
@@ -32,6 +32,8 @@
   </a> 
 </p>
 
+
+---
 
 
 ### 📊 GitHub Stats
