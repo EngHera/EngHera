@@ -5,7 +5,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technical Skills:</h3>
 <p align="left"> 
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="80" height="80"/> </a> 
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="80" height="80"/> </a> 
@@ -27,7 +27,7 @@
     <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="80" height="80"/></a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enghera&show_icons=true&locale=en&layout=compact" alt="enghera" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enghera&show_icons=true&locale=en&layout=compact&bg_color=0e75b6" alt="enghera" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enghera&show_icons=true&locale=en" alt="enghera" /></p>
 
