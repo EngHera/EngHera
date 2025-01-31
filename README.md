@@ -25,6 +25,8 @@
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="80" height="80"/> </a> 
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="80" height="80"/> </a> 
     <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="80" height="80"/></a> 
+    <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/solidworks-logo/" alt="solidworks" width="40" height="40"/> 
+  </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enghera&show_icons=true&locale=en&layout=compact" alt="enghera" /></p>
