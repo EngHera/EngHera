@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enghera&show_icons=true&locale=en&bg_color=003366&text_color=ffffff" alt="enghera" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enghera&bg_color=003366&text_color=ffffff" alt="enghera" /></p>
+
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=enghera&bg_color=003366&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=003366" alt="enghera" /></p>
