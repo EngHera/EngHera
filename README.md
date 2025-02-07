@@ -42,6 +42,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enghera&layout=compact&theme=ambient_gradient)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enghera&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enghera&theme=ambient_gradient)
 
 
